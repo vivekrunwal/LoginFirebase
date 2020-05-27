@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437460395022",
+    "firebase_url": "https://smst-b2b04.firebaseio.com",
+    "project_id": "smst-b2b04",
+    "storage_bucket": "smst-b2b04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437460395022:android:72d49bd706538e8711885f",
+        "android_client_info": {
+          "package_name": "com.example.android.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437460395022-d8bsnms70qccqsddsjb2t53nnphtgbfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9bRw0h_q8RQZGKddU4Zs3ek_srT7vc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437460395022-d8bsnms70qccqsddsjb2t53nnphtgbfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
